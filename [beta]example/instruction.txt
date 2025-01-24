@@ -1,0 +1,4 @@
+# 0 CUDA to ROCm, 1 ROCm to CUDA
+CMODE=0
+INFILE=app.cu
+OUTFILE=app.rocm
